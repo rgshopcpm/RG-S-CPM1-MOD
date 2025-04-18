@@ -6,9 +6,9 @@
 
 4. pkg install python -y
 
-5. git clone https://github.com/CPMElsedev/CPMElsedev.git
+5. git clone https://github.com/rgshopcpm/RG-S-CPM1-MOD.git
 
-6. cd CPMElsedev
+6. cd rgshopcpm
 
 7. git pull
 
